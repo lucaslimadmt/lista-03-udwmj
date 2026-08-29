@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratica 03 - Exercicio 03</title>
+    <link rel="stylesheet" href="pratica03ex03.css">
+</head>
+<body>
+    <script>
+        var numeroUm = prompt("Digite o primeiro numero: ");
+        var numeroDois = prompt("Digite o segundo numero: ");
+        
+        numeroUm = parseInt(numeroUm);
+        numeroDois = parseInt(numeroDois);
+
+        var soma = numeroUm + numeroDois;
+        var subtracao = numeroUm - numeroDois;
+        var divisao = numeroUm / numeroDois;
+        var multiplicacao = numeroUm * numeroDois;
+        var resto = numeroUm % numeroDois;
+
+        document.write("<div class='numero'> Primeiro numero: " + numeroUm + "</div>");
+        document.write("<div class='numero'> Segundo numero: " + numeroDois + "</div>");
+
+        document.write("<div id='soma'> Soma: " + soma + "</div>");
+        document.write("<div id='subtracao'> Subtração: " + subtracao + "</div>");
+        document.write("<div id='multiplicacao'> multiplicacao: " + multiplicacao + "</div>");
+        document.write("<div id='divisao'> Divisão: " + divisao + "</div>");
+        document.write("<div id='resto'> Resto: " + resto + "</div>");
+    </script>
+    
+</body>
+</html>
