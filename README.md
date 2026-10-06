@@ -1,18 +1,30 @@
-# Lista 03 - Usabilidade, Desenvolvimento Web, Mobile e Jogos
+# UDWMJ — Lista 03
 
-Repositório destinado à resolução dos exercícios da Prática 03 da disciplina.
+Conjunto de exercícios acadêmicos de desenvolvimento web utilizando HTML, CSS e JavaScript.
 
-## 📁 Exercícios Desenvolvidos
+## Exercícios
 
-* **Exercicio01**: Programa de boas-vindas básico (`pratica03ex01`)
-* **Exercicio02**: Programa de boas-vindas com estilização (`pratica03ex02`)
-* **Exercicio03**: Operações matemáticas com prompt e exibição na tela (`pratica03ex03`)
-* **Exercício 04**: Cálculo da Área do Círculo (`pratica03exercicio04`)
-* **Exercício 05**: Cálculo do Volume da Esfera (`pratica03exercicio05`)
-* **Exercício 06**: Cálculo do Montante com Juros Compostos (`pratica03exercicio06`)
+- **Exercício 01:** página de boas-vindas.
+- **Exercício 02:** página de boas-vindas com estilização.
+- **Exercício 03:** operações matemáticas com entrada de dados.
+- **Exercício 04:** cálculo da área de um círculo.
+- **Exercício 05:** cálculo do volume de uma esfera.
+- **Exercício 06:** cálculo de montante com juros compostos.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias
 
-* HTML5
-* CSS3
-* JavaScript
+- HTML5
+- CSS3
+- JavaScript
+
+## Estrutura
+
+Cada exercício está organizado em sua própria pasta, contendo os arquivos necessários para execução no navegador.
+
+## Como executar
+
+Abra o arquivo HTML do exercício desejado em um navegador.
+
+## Contexto
+
+Atividade acadêmica da disciplina de desenvolvimento web.
